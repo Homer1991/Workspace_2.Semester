@@ -1,0 +1,3 @@
+Mundt; Jan; 18; Blah, 39a, 16775, Gransee; Mundt, 39847329847, 16030000; Karl, Egon, Erna
+Waldi; Troll; 999; Polen Allee, 498, 03654, Hohenwutzen; Waldi, 464534234, 1607800; Willibald, Herribert
+Wolfgang; Pulla; 67; Hermannstrasse, 16c, 42355, Düsseldorf; Wolfgang, 87687587, 1608700; Helga, Ursula

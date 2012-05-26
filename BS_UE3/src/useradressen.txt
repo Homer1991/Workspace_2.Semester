@@ -1,0 +1,5 @@
+Karl Horst,Eichwald 15,13544 Berlin
+Alter Sack,Strasse 5,13544 Berlin
+Dieter Wurmkopf,Strasse 17,13544 Berlin
+Dieter Wurmkopf,Strasse 17,13534 Berlin
+Martin Blah,Strasse 17,131234 Gransee

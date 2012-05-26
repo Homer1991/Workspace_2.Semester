@@ -1,0 +1,10 @@
+import re
+print re.search('bert', 'Albert').group()
+print re.search('\$', '$').group()
+print re.search('\$$', '$').group()
+print re.search('\$$', '$').group()
+print re.search('^[^^]','^')
+print re.search('^\^', '^').group()
+print re.search('^[^^]', 'X^X').group()
+print re.search('[abc]+', 'xxxaaaddd').group()
+print re.search('[abc]', 'xxxaaaddd').group()
